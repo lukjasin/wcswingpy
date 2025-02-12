@@ -1,4 +1,4 @@
-# WCSwing.py
+# WCSwingPy
 
 WCSwingPy is a Python application designed to assist beginner dancers practicing **West Coast Swing** (WCS). The app helps users practice and refine the technique of basic dance moves, allowing them to train at their own pace with a metronome and verbal cues for the dance figures.
 
@@ -10,16 +10,12 @@ WCSwingPy is a Python application designed to assist beginner dancers practicing
 Before running the application, make sure you have the following Python library installed:
 - **simpleaudio**: This library is required for playing sound files (such as metronome ticks and figure names).
 
-### Installation Instructions:
-
-If you don’t have `simpleaudio` installed, you can install it using `pip` by running the following command in your terminal:
-
-
-
-
 ### How to Run:
 
 1. **Clone or Download** the repository for WCSwingPy.
+```bash
+git clone https://github.com/lukjasin/wcswingpy.git
+```
 2. Open your terminal and navigate to the directory where the app is located.
 3. Install requirements
 ```bash
